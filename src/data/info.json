@@ -1,0 +1,252 @@
+[
+    {
+      "state": "Alabama",
+      "capital": "Montgomery",
+      "fact": "Montgomery was the first capital of Alabama in 1846."
+    },
+    {
+      "state": "Alaska",
+      "capital": "Juneau",
+      "fact": "Juneau is larger in land area than the state of Delaware."
+    },
+    {
+      "state": "Arizona",
+      "capital": "Phoenix",
+      "fact": "Phoenix has more than 300 sunny days per year."
+    },
+    {
+      "state": "Arkansas",
+      "capital": "Little Rock",
+      "fact": "Little Rock is home to the Clinton Presidential Center."
+    },
+    {
+      "state": "California",
+      "capital": "Sacramento",
+      "fact": "Sacramento is a major agricultural center."
+    },
+    {
+      "state": "Colorado",
+      "capital": "Denver",
+      "fact": "Denver has a dry, sunny climate."
+    },
+    {
+      "state": "Connecticut",
+      "capital": "Hartford",
+      "fact": "Hartford is known as the 'Insurance Capital of the World'."
+    },
+    {
+      "state": "Delaware",
+      "capital": "Dover",
+      "fact": "Dover is near Delaware Bay, a major estuary."
+    },
+    {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "fact": "Tallahassee is located in Florida's panhandle region."
+    },
+    {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "fact": "Atlanta was the host city for the 1996 Summer Olympics."
+    },
+    {
+      "state": "Hawaii",
+      "capital": "Honolulu",
+      "fact": "Honolulu is a major gateway to the Pacific."
+    },
+    {
+      "state": "Idaho",
+      "capital": "Boise",
+      "fact": "Boise is situated along the Boise River."
+    },
+    {
+      "state": "Illinois",
+      "capital": "Springfield",
+      "fact": "Springfield is located in central Illinois."
+    },
+    {
+      "state": "Indiana",
+      "capital": "Indianapolis",
+      "fact": "Indianapolis is the most populous city in Indiana."
+    },
+    {
+      "state": "Iowa",
+      "capital": "Des Moines",
+      "fact": "Des Moines is an important center for the insurance industry."
+    },
+    {
+      "state": "Kansas",
+      "capital": "Topeka",
+      "fact": "Topeka is located on the Kansas River."
+    },
+    {
+      "state": "Kentucky",
+      "capital": "Frankfort",
+      "fact": "Frankfort is located on the Kentucky River."
+    },
+    {
+      "state": "Louisiana",
+      "capital": "Baton Rouge",
+      "fact": "Baton Rouge is a major port city on the Mississippi River."
+    },
+    {
+      "state": "Maine",
+      "capital": "Augusta",
+      "fact": "Augusta is the easternmost state capital in the contiguous United States."
+    },
+    {
+      "state": "Maryland",
+      "capital": "Annapolis",
+      "fact": "Annapolis is home to the United States Naval Academy."
+    },
+    {
+      "state": "Massachusetts",
+      "capital": "Boston",
+      "fact": "Boston is known for its rich history and numerous universities."
+    },
+    {
+      "state": "Michigan",
+      "capital": "Lansing",
+      "fact": "Lansing is a significant center for the automotive industry."
+    },
+    {
+      "state": "Minnesota",
+      "capital": "Saint Paul",
+      "fact": "Saint Paul is located on the Mississippi River, near Minneapolis."
+    },
+    {
+      "state": "Mississippi",
+      "capital": "Jackson",
+      "fact": "Jackson is the most populous city in Mississippi."
+    },
+    {
+      "state": "Missouri",
+      "capital": "Jefferson City",
+      "fact": "Jefferson City is situated on the Missouri River."
+    },
+    {
+      "state": "Montana",
+      "capital": "Helena",
+      "fact": "Helena is located in the Rocky Mountains."
+    },
+    {
+      "state": "Nebraska",
+      "capital": "Lincoln",
+      "fact": "Lincoln is home to the University of Nebraska-Lincoln."
+    },
+    {
+      "state": "Nevada",
+      "capital": "Carson City",
+      "fact": "Carson City is located near the Sierra Nevada mountains."
+    },
+    {
+      "state": "New Hampshire",
+      "capital": "Concord",
+      "fact": "Concord is located on the Merrimack River."
+    },
+    {
+      "state": "New Jersey",
+      "capital": "Trenton",
+      "fact": "Trenton is located on the Delaware River."
+    },
+    {
+      "state": "New Mexico",
+      "capital": "Santa Fe",
+      "fact": "Santa Fe has a unique architectural style influenced by its Spanish colonial heritage."
+    },
+    {
+      "state": "New York",
+      "capital": "Albany",
+      "fact": "Albany is located at the junction of the Hudson and Mohawk Rivers."
+    },
+    {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "fact": "Raleigh is part of the Research Triangle Park region."
+    },
+    {
+      "state": "North Dakota",
+      "capital": "Bismarck",
+      "fact": "Bismarck is located on the Missouri River."
+    },
+    {
+      "state": "Ohio",
+      "capital": "Columbus",
+      "fact": "Columbus is the state's most populous city."
+    },
+    {
+      "state": "Oklahoma",
+      "capital": "Oklahoma City",
+      "fact": "Oklahoma City is known for its oil industry history."
+    },
+    {
+      "state": "Oregon",
+      "capital": "Salem",
+      "fact": "Salem is located in the Willamette Valley."
+    },
+    {
+      "state": "Pennsylvania",
+      "capital": "Harrisburg",
+      "fact": "Harrisburg is located on the Susquehanna River."
+    },
+    {
+      "state": "Rhode Island",
+      "capital": "Providence",
+      "fact": "Providence is home to Brown University."
+    },
+    {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "fact": "Columbia is located at the confluence of the Broad and Saluda Rivers."
+    },
+    {
+      "state": "South Dakota",
+      "capital": "Pierre",
+      "fact": "Pierre is one of the least populous state capitals."
+    },
+    {
+      "state": "Tennessee",
+      "capital": "Nashville",
+      "fact": "Nashville is a major center for the music industry."
+    },
+    {
+      "state": "Texas",
+      "capital": "Austin",
+      "fact": "Austin is known for its live music scene and technology industry."
+    },
+    {
+      "state": "Utah",
+      "capital": "Salt Lake City",
+      "fact": "Salt Lake City hosted the 2002 Winter Olympics."
+    },
+    {
+      "state": "Vermont",
+      "capital": "Montpelier",
+      "fact": "Montpelier is the only state capital without a McDonald's restaurant."
+    },
+    {
+      "state": "Virginia",
+      "capital": "Richmond",
+      "fact": "Richmond is located on the James River."
+    },
+    {
+      "state": "Washington",
+      "capital": "Olympia",
+      "fact": "Olympia is located at the southern end of Puget Sound."
+    },
+    {
+      "state": "West Virginia",
+      "capital": "Charleston",
+      "fact": "Charleston is located at the confluence of the Elk and Kanawha Rivers."
+    },
+    {
+      "state": "Wisconsin",
+      "capital": "Madison",
+      "fact": "Madison is surrounded by four lakes."
+    },
+    {
+      "state": "Wyoming",
+      "capital": "Cheyenne",
+      "fact": "Cheyenne is known for its annual Frontier Days rodeo."
+    }
+  ]
